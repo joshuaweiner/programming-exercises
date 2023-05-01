@@ -25,6 +25,11 @@
    - 002 - search-ouput
    - 003 - search-ouput
    ```
+   
+   Note: 
+   ```bash
+   curl 'https://raw.githubusercontent.com/joshuaweiner/programming-exercises/main/authlog/auth.log' > auth.log
+   ```
 
 ## Questions 
    1. Show the calendar days that are covered in the log file?
