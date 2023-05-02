@@ -57,3 +57,6 @@
    10. Create a file tracking a single person's inflows.
 
    11. Create a file tracking a single person's outflows.
+   
+   12. Sort `transactions.log`, replace 'inflow' with 'credit' and
+       'outflow' with 'debit'. Save your work to a new file called `ledger.log`.
