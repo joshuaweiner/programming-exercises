@@ -1,12 +1,10 @@
 # Transactions  
 
 ## Preamble 
+   Using Unix programs analyze the `transactions.log` file. Additional
+   information on the tools can be found by using `man` command.
 
-   Using bash programs such as grep, sed, and AWK please analyze the
-   `transactions.log` file. Additional information on the tools can be
-   found by using `man` command.
-
-   Review the following Unix Tools: 
+   Before you begin review the following Unix Tools: 
    + awk
    + sed
    + grep
@@ -15,6 +13,9 @@
    + wc
    + tail 
    + head
+
+   The purpose of this exercise is to understand how the tools work
+   and can work together. 
 
    Save your answers/commands to a text file.
    
@@ -27,7 +28,7 @@
    - 003 - search-ouput
    ```
    
-   Note: 
+   Getting Started: 
    ```bash
    curl 'https://raw.githubusercontent.com/joshuaweiner/programming-exercises/main/transactions/transactions.log' > transactions.log
    ```
