@@ -19,7 +19,7 @@ The following wildcards are commonly used in Unix:
 To begin, please review the following:
 
 - `wildcards`
-- `more`
+- `ls`
 
 Use the `man` command and review the reference section.
 
@@ -44,19 +44,15 @@ curl 'https://raw.githubusercontent.com/joshuaweiner/programming-exercises/main/
 sh create_files.sh
 ```
 ```bash
-cd ./wildcard-exercise
+cd ./not-home
 ```
-
 ## Exercises
-1. Output the paths to all files that end with .txt in the current directory.
-2. Output the paths to all directories in the current directory that have a single-character name.
-3. Output the paths to all files in the current directory that have a single-character name.
-4. Output the paths to all files in the current directory that start with a capital letter.
-5. Output the paths to all directories in the current directory that contain the word 'test'.
-6. Output the paths to all files in the current directory that contain the word 'test'.
-7. Output the paths to all files in the current directory that have a 3-character name and start with test.
-8. Output the paths to all files in the current directory that have exactly 4 characters in their name and end with dot followed by any 3 characters.
-9. Output the paths to all files in the current directory that do not contain the word 'test'.
+1. List all files and directories in the current directory.
+2. List all files in the current directory that have a .txt extension.
+3. List all files in the current directory that have a name starting with the letter a.
+4. List all files in the `./not-home/student/usr/bin` directory that have a name ending with .sh.
+6. List all files in the `./not-home/student/usr/share` directory that have a name containing the word test.
+7. List all files in the `./not-home/student` directory that have a name starting with a digit.
 
 ## References
 + https://www.gnu.org/software/bash/manual/html_node/Pattern-Matching.html
