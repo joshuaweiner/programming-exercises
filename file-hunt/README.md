@@ -44,21 +44,21 @@
    ```
    
    ```bash
-   cd home
+   cd ./not-home
    ```
 
 ## Exercises 
 
-1. Output the paths to regular `files` beneath `/home/usr/share`.
-2. Output the paths to `directories` beneath `/home/usr/share/study`.
-3. Output the paths to regular `files` beneath `/home/usr/share/notes` whose names are `tree`.
-4. Output the paths to `directories` beneath `/home/usr/share/notes` whose names are `lecture2`.
-5. Output the paths to `directories` beneath `/home/usr/share` whose `names` are `five` characters long.
-6. Output the paths to `objects` beneath `/home/usr/share/study` whose names start with `w`.
-7. Output the paths to `objects` beneath `/home/usr/share` whose
+1. Output the paths to regular `files` beneath `./not-home/usr/share`.
+2. Output the paths to `directories` beneath `./not-home/usr/share/study`.
+3. Output the paths to regular `files` beneath `./not-home/usr/share/notes` whose names are `tree`.
+4. Output the paths to `directories` beneath `./not-home/usr/share/notes` whose names are `lecture2`.
+5. Output the paths to `directories` beneath `./not-home/usr/share` whose `names` are `five` characters long.
+6. Output the paths to `objects` beneath `./not-home/usr/share/study` whose names start with `w`.
+7. Output the paths to `objects` beneath `./not-home/usr/share` whose
    `names` have a `.` in them.
 8. Output the paths to `everything` beneath the current `directory`. Put the output in a file named `find.out` in your `home` directory. Then examine the contents of `find.out` using `more`.
-9. Output the paths to all `objects` beneath `/home/usr/share/notes`. Can you use this output to create a new file?
+9. Output the paths to all `objects` beneath `./not-home/usr/share/notes`. Can you use this output to create a new file?
 
 ## References 
 + https://en.wikipedia.org/wiki/Find_(Unix)
