@@ -56,4 +56,4 @@ cd ./not-home
 
 ## References
 + https://www.gnu.org/software/bash/manual/html_node/Pattern-Matching.html
-+ https://www.howtogeek.com/428629/how-to-use-wildcards-in-linux/
+
