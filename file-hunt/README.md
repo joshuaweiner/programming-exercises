@@ -32,11 +32,11 @@
    - 001 - search-ouput
    - 002 - search-ouput
    - 003 - search-output
-   
+   ``` 
    
    Getting Started:
    ```bash
-   curl '' > create_files.sh
+   curl 'https://raw.githubusercontent.com/joshuaweiner/programming-exercises/main/file-hunt/create_files.sh' > create_files.sh
    ```
    
    ```bash
