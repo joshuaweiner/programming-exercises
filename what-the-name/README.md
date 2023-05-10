@@ -21,8 +21,8 @@
    3. Reconcile #1, #2, and choose a proper name for the file. 
    
    ```bash
-	 $ cat baddly-named-file.txt
-	 This is a paper. About the Civil War. Written by David Johnson. 2023-05-10
+   $ cat baddly-named-file.txt
+   This is a paper. About the Civil War. Written by David Johnson. 2023-05-10
    ```
    
    ```bash
