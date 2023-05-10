@@ -6,7 +6,7 @@
    
    Before you get started review the following items: 
    - [How to Properly Name Files](https://github.com/joshuaweiner/programming-exercises/blob/main/what-the-name/naming-things-summary.md)
-   - [Naming Things](https://github.com/joshuaweiner/programming-exercises/blob/main/what-the-name/naming-things-summary.md)
+   - [Naming Things](https://github.com/joshuaweiner/programming-exercises/blob/main/what-the-name/naming-things.pdf)
 
    You can view the contents of the files to gain a better
    understanding of the purpose of the file. Use `cat` to review the
@@ -20,8 +20,14 @@
    2. Review the file's content what does it describe?
    3. Reconcile #1, #2, and choose a proper name for the file. 
    
-   - `cat baddly-named-file.txt`:`This is a paper. About the Civil War. Written by David Johnson. 2023-05-10`
-   - `mv baddly-named-file.txt paper__civil_war__david_johnson__20230510.txt`
+   ```bash
+	 $ cat baddly-named-file.txt
+	 This is a paper. About the Civil War. Written by David Johnson. 2023-05-10
+   ```
+   
+   ```bash
+   mv baddly-named-file.txt paper__civil_war__david_johnson__20230510.txt
+   ```
    
 ## Exercise 
    Using some file naming schema/convention rename the files within
