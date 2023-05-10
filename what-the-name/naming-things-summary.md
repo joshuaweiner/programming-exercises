@@ -39,17 +39,17 @@ a proper naming convention schema. A common schema includes the file
 `type`, `author`, `date`, and `title`:
 
 + **File type**: Start with a brief description of the file type, such
-  as "paper," "memo," "article," or "contract."
+  as `paper,` `memo,` `article,` or `contract.`
 + **Title**: Include a brief but descriptive title for the content of
   the file, separated by two underscores.
 + **Author**: Include the first letter of the author's first name and
-  their last name, such as "mjordan" for Michael Jordan.
+  their last name, such as `mjordan` for Michael Jordan.
 
 + **Date**: Include the date the file was created or last modified in
-the ISO 8601 format of "YYYY-MM-DD."  To illustrate, a good name for a
+the ISO 8601 format of `YYYY-MM-DD.`  To illustrate, a good name for a
 paper on the stock market boom written by Michael Jordan on May 1,
 2023, could be
-`"paper__stock_market_boom__mjordan__2023-05-01.pdf"`. This name
+`paper__stock_market_boom__mjordan__2023-05-01.pdf`. This name
 includes all the necessary information to identify the file, and the
 title parameter provides additional information on the content.
 
@@ -61,35 +61,35 @@ Here are a few more examples of good schema named files:
 
 It's also important to left-pad other numbers with zeros to ensure
 consistent sorting. For example, if you have a series of files
-numbered from 1 to 100, it's better to name them "memo-mjordan-001",
-"memo-mjordan-002", and so on, rather than "memo-mjordan-1",
-"memo-mjordan-2", and so on. This ensures that the files are sorted
+numbered from 1 to 100, it's better to name them `memo-mjordan-001`,
+`memo-mjordan-002`, and so on, rather than `memo-mjordan-1`,
+`memo-mjordan-2`, and so on. This ensures that the files are sorted
 in the correct order, and makes it easier to identify missing files
 in the sequence.
 
 ### Additional Examples 
 
 #### Examples of bad file names:
-1. `"doc1.docx"` - This file name is not descriptive and doesn't give
+1. `doc1.docx` - This file name is not descriptive and doesn't give
    any indication of the file's contents or purpose.
-2. `"Contract-Marketing_John_5-5-21.docx"` - This file name contains
+2. `Contract-Marketing_John_5-5-21.docx` - This file name contains
    spaces, which can cause issues with some software, and uses dashes
    inconsistently as separators. The date format is not in ISO 8601
    standard format.
-3. `"new_logo_RGB_final_final.png"` - This file name includes
+3. `new_logo_RGB_final_final.png` - This file name includes
    redundant words and phrases, which can make it difficult to
    determine which file is the most recent or final version.
 
 #### Examples of good file names: 
-- `"paper__stock_market_boom__mjordan__2023-05-01.pdf"` - This file
+- `paper__stock_market_boom__mjordan__2023-05-01.pdf` - This file
   name follows the schema guidelines, with clear and concise
   information about the contents, author, and date. It is also
   machine-readable and human-readable.
-- `"invoice__ABC_company__2023-04-30.pdf"` - This file name includes a
+- `invoice__ABC_company__2023-04-30.pdf` - This file name includes a
   descriptive title, the name of the client or customer, and the date
   in ISO 8601 format. It is also consistent with the file type
   parameter.
-- `"memo__sales_figures__emiller__2023-05-10.docx"` - This file name
+- `memo__sales_figures__emiller__2023-05-10.docx` - This file name
   includes a clear title, the topic of the memo, the author's
   initials, and the date in ISO 8601 format. It is also consistent
   with the file type parameter.
@@ -97,8 +97,8 @@ in the sequence.
 ## Conclusion 
 
 Use descriptive names that accurately reflect the contents of the
-file or folder, and avoid using generic names like "document" or
-"file."  Additionally, keep names short and simple, while still
+file or folder, and avoid using generic names like `document` or
+`file.`  Additionally, keep names short and simple, while still
 providing enough information to identify the file. Avoid using
 abbreviations or acronyms that may not be immediately clear to others.
 
