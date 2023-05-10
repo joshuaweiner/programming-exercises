@@ -1,0 +1,29 @@
+# What The Name Answers
+- `mv art_technology_essays.txt paper__art_and_technology_essays.txt`
+- `mv bizcrashjohndoe.txt paper__business_crash__john_doe__20221010.txt`
+- `mv bizreport June 1 2000.txt report__abc_corp_report.txt`
+- `mv _Book old man.txt book__the_old_man_and_the_sea__ernest_hemingway.txt`
+- `mv chicken dinner.txt recipe__chicken_dinner__20230101.txt`
+- `mv chocolate_cake_recipe.txt recipe__chocolate_cake_recipe__20221225.txt`
+- `mv Company Report Jan-5-1998.txt report__xyz_llc_report__joe_bloggs.txt`
+- `mv favorite_movies_tv.txt list__favorite_movies_and_tv_shows__john_smith.txt`
+- `mv history Cold-War David_Wilson.txt paper__history_of_the_cold_war__david_wilson.txt`
+- `mv homeless_shelter_essay.txt paper__volunteering_at_a_homeless_shelter.txt`
+- `mv internet_company_presentation.txt presentation__internet_company_presentation__jane_smith.txt`
+- `mv language_learning_tips.txt list__language_learning_tips.txt`
+- `mv letter_to_future_self.txt letter__letter_to_my_future_self__20230510.txt`
+- `mv meditation_guide.txt guide__meditation_and_mindfulness_for_beginners__jane_roe.txt`
+- `mv music_industry_report.txt report__state_of_the_music_industry_in_2023__james_bond.txt`
+- `mv MyJournal.txt diary__my_journal.txt`
+- `mv dinosaurs.txt article__new_dinosaur_species_discovery__tina_tucker.txt`
+- `mv postapocalyptic SHORT stories.txt collection__post-apocalyptic_short_stories__jack_john.txt`
+- `mv q2_report.txt report__xyz_inc_q2_2023_report__bob_brown.txt`
+- `mv quotes i like.txt collection__favorite_quotes__mary_mitchel.txt`
+- `mv renewable_energy_report.txt report__state_of_renewable_energy_in_2023__betty_brown.txt`
+- `mv sleep_is_importance.txt article__the_importance_of_sleep__jane_smith__20230510.txt`
+- `mv SMALL_BUSINESS_GUIDE.txt guide__starting_your_own_small_business.txt`
+- `mv SMALLSTORY 04032023.txt short_story__the_smallest_story__david_wilson__2023003.txt`
+- `mv stockmarketboom.txt article__stock_market_boom__adam_smith.txt`
+- `mv time__story.txt short_story__time_traveler_stuck_in_the_1920s.txt`
+- `mv tree book.txt book__the_giving_tree__shell_silverstein.txt`
+- `mv Xmas Shopping-8.txt shopping_list__xmas_shopping__2008.txt`
