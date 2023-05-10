@@ -20,10 +20,8 @@
    2. Review the file's content what does it describe?
    3. Reconcile #1, #2, and choose a proper name for the file. 
    
-   - `cat baddly-named-file.txt`
-     `This is a paper. About the Civil War. Written by David Johnson. 2023-05-10`
-   
-   - `mv baddly-named-file.txt paper__civil_war__david_johnson__20230510.txt`
+   `cat baddly-named-file.txt`:`This is a paper. About the Civil War. Written by David Johnson. 2023-05-10`
+   `mv baddly-named-file.txt paper__civil_war__david_johnson__20230510.txt`
    
 ## Exercise 
    Using some file naming schema/convention rename the files within
