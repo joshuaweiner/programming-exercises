@@ -108,3 +108,15 @@ sorting. By following these guidelines, you can ensure that your files
 are sorted and ordered correctly, and make it easier to find the files
 you need. Remember to be consistent with your naming conventions, and
 revise them as needed to better suit your needs.
+
+### References 
+- ISO 8601 date format: https://en.wikipedia.org/wiki/ISO_8601
+- Regular expressions: https://en.wikipedia.org/wiki/Regular_expression
+- Globbing: https://en.wikipedia.org/wiki/Glob_(programming)
+- Semantic URLs: https://en.wikipedia.org/wiki/Semantic_URL
+- Delimiters: https://en.wikipedia.org/wiki/Delimiter
+- File naming conventions: https://en.wikipedia.org/wiki/Filename#Naming_conventions
+
+### Credit 
+- Bryan, J. (2015). Naming Things. Reproducible Science Workshop. 
+- https://speakerdeck.com/jennybc/how-to-name-files
