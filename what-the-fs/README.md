@@ -10,9 +10,9 @@ convention you developed.
 
 Before you begin review the following: 
 - [Introduction to File Systems](https://github.com/joshuaweiner/programming-exercises/blob/main/what-the-fs/introduction-fs.md)
-- Example Deliverable (Below)
+- [Example Deliverable](#deliverable)
 
-Example Deliverable:
+### Deliverable
 ```text
 Directory Schema:
 - Corporate Directory
