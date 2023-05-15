@@ -9,7 +9,7 @@ prompt questions and includes the directory schema and naming
 convention you developed.
 
 Before you begin review the following: 
-- Introduction to File Systems 
+- [Introduction to File Systems](https://github.com/joshuaweiner/programming-exercises/blob/main/what-the-fs/introduction-fs.md)
 - Example Deliverable (Below)
 
 Example Deliverable:
